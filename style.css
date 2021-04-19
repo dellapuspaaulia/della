@@ -1,0 +1,24 @@
+body {
+	background-image: url(bg4.png);
+	background-position: center;
+	backgrounf-repeat: no-repeat;
+}
+h2 {
+	font-family: jokerman;
+	font-weight: normal;
+	font-style: italic;
+	line-height: 12px;
+	font-variant: small;
+	color: black;
+}
+p {
+	font-family: jokerman;
+	font-size: 22px;
+	color: black;
+}
+table {
+	font-family: jokerman;
+	font-weight: normal;
+	line-height: 10px;
+	font-variant: small;
+}
